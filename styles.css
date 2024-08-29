@@ -52,27 +52,34 @@ p{
     display: flex;
     justify-content: space-around;
     align-items: center;
+    flex-wrap: wrap;
+    padding: 10px;
 }
 
 .Food-Truck-Chef-at-work {
+    justify-content: flex-start;
     width: 200px;
     height: auto;
     margin: 10px;
 }
 
 .Food-Truck-Chef-giving-food-to-a-happy-customer {
+    justify-content: flex-start;
     width: 200px;
     height: auto;
     margin:10px;
 }
 
 .Food-Truck-customers-enjoying-meal {
+    
+    justify-content: flex-start;
     width: 200px;
     height: auto;
     margin: 10px;
 }
 
 .footer-icon {
+    justify-content: flex-start;
     width: 50px;
     height: auto;
     margin: 10px;
